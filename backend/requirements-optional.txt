@@ -1,0 +1,2 @@
+# Only needed for CodeFormer (non-commercial S-Lab licence).
+spandrel_extra_arches>=0.2.0
